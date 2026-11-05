@@ -1,0 +1,25 @@
+# Publish only the files the UK Lunabotics page uses
+*
+!.gitignore
+!.nojekyll
+!CNAME
+!index.html
+!about.html
+!site.css
+!site.js
+!Lunabotics/
+Lunabotics/*
+!Lunabotics/logo-small.png
+!Lunabotics/ou-logo-blue.svg
+!Lunabotics/ou-logo-white.svg
+!Lunabotics/UKLunabotics_2025_LaunchSlides.pdf
+!Lunabotics/UKLunabotics2027_OverviewAndRegistration_v2.0_23_09_2026.pdf
+!Lunabotics/UKLunabotics2027_RuleBook_DRAFT_v0.1.pdf
+!Lunabotics/2026/
+Lunabotics/2026/*
+!Lunabotics/2026/*.webp
+!Lunabotics/fonts/
+Lunabotics/fonts/*
+!Lunabotics/fonts/*.woff2
+!Lunabotics/fonts/*.woff
+!Lunabotics/fonts/*-OFL.txt
