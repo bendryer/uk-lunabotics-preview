@@ -18,6 +18,12 @@ Lunabotics/*
 !Lunabotics/2026/
 Lunabotics/2026/*
 !Lunabotics/2026/*.webp
+!Lunabotics/sponsors/
+Lunabotics/sponsors/*
+!Lunabotics/sponsors/*.webp
+!Lunabotics/team/
+Lunabotics/team/*
+!Lunabotics/team/*.webp
 !Lunabotics/fonts/
 Lunabotics/fonts/*
 !Lunabotics/fonts/*.woff2
